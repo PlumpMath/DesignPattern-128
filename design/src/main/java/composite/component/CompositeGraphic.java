@@ -10,7 +10,7 @@ import java.util.List;
  */
 public class CompositeGraphic implements Graphic {
 
-    //Collection of child graphics.
+    //Collectiona of child graphics.
     private List<Graphic> mChildGraphics = new ArrayList<Graphic>();
 
     //Prints the graphic.
